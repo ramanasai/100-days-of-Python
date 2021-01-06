@@ -6,9 +6,15 @@ My Notes from [Notion] ware i will tracking all my Python Steps and Even Notes.
 # Goal
 Learn the foundations of data science and machine learning with Python.
 
-For [Algorithm] i am using thealgorithm Github Repo. The [Directory](https://github.com/TheAlgorithms/Python/blob/master/DIRECTORY.md) of the repo for more information of the data
+# Algorithm
+List Of Algorithm i am Learning from:
+  1. [TheAlgorithms](https://github.com/TheAlgorithms/Python) {[Directory](https://github.com/TheAlgorithms/Python/blob/master/DIRECTORY.md)}
+  2. [geekcomputers](https://github.com/geekcomputers/Python)
+
+# References
+  1. [Real Python](https://realpython.com/)
 
 <!---Links || Reference--->
 
 [Notion]: https://www.notion.so/2021-Python-d373db25e4354031af8128ec28df3781
-[Algorithm]: https://thealgorithms.github.io/
+
