@@ -6,10 +6,11 @@ My Notes from [Notion] ware i will tracking all my Python Steps and Even Notes.
 # Goal
 Learn the foundations of data science and machine learning with Python.
 
-# Algorithm
+# Algorithm || Resources
 List Of Algorithm i am Learning from:
   1. [TheAlgorithms](https://github.com/TheAlgorithms/Python) {[Directory](https://github.com/TheAlgorithms/Python/blob/master/DIRECTORY.md)}
   2. [geekcomputers](https://github.com/geekcomputers/Python)
+  3. [Show Me The Code](https://github.com/Show-Me-the-Code/python)
 
 # References
   1. [Real Python](https://realpython.com/)
