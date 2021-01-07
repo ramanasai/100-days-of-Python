@@ -17,6 +17,7 @@ List of Python Programs and Problems:
   1. [Amazing Python 3](https://github.com/ash/amazing_python3)
 # References
   1. [Real Python](https://realpython.com/)
+  2. [Edube](https://edube.org/learn)
 
 <!---Links || Reference--->
 
