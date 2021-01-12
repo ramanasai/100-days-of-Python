@@ -1,7 +1,7 @@
 # 100-days-of-Python
 I am Challenging myself for 100+ days of learning Python Language.
 
-My Notes from [Notion] ware i will tracking all my Python Steps and Even Notes(Every day Work Flow)(Even in Github Regular i will be updating).
+My Notes are in [Notelet] ware i will tracking all my Python Steps and Even Notes(Every day Work Flow)(Even in Github Regular i will be updating).
 (Even You can Duplicate my notion Workspace 
 # Goal
 Learn the foundations of data science and machine learning with Python.
@@ -22,4 +22,4 @@ List of Python Programs and Problems:
 <!---Links || Reference--->
 
 [Notion]: https://www.notion.so/2021-Python-d373db25e4354031af8128ec28df3781
-
+[Notelet]: https://notesofrmn.notelet.so/
